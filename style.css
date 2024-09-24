@@ -23,7 +23,7 @@ body {
 }
 
 .header-hero {
-    background: url(https://i.ibb.co/yh34Xqq/Website-Background.png);
+    background: url(https://i.ibb.co/yh34Xqq/Website-Background.png) fixed;
     background-size: cover;
     background-repeat: none;
     display: grid;
